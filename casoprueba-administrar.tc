@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>casoprueba-administrar</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>433a24d2-09ba-42dc-9450-146a63b38cb7</testCaseGuid>
+</TestCaseEntity>

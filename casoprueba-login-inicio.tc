@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>casoprueba-login-inicio</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>880b4c0e-94dc-41e6-9cfb-ee3cbd197b2c</testCaseGuid>
+</TestCaseEntity>

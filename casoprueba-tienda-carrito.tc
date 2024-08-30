@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>casoprueba-tienda-carrito</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>5189ec4e-261f-40a2-a6a1-c82e84176918</testCaseGuid>
+</TestCaseEntity>

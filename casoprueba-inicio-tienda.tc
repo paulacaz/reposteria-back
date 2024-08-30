@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>casoprueba-inicio-tienda</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7206b67d-fc50-4b0a-8da9-d7c50a9ea892</testCaseGuid>
+</TestCaseEntity>
